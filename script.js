@@ -127,7 +127,7 @@ const tracks = [
         artist: "Lil Tecca feat. Juice WRLD",
         album: "Single",
         duration: "0:00", // Will be auto-detected
-        popularity: 99,
+        popularity: 98,
         audio: "audio/Lil Tecca feat. Juice WRLD - Ransom.mp3",
         cover: "images/Lil Tecca feat. Juice WRLD - Ransom.png"
     },
